@@ -1,7 +1,23 @@
-## Hi there 👋
+<h1>Hi, I'm Anujin! </h1>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
+
+  - [Active Directory Home Lab](https://github.com/anujin01/URL)
+
+<h2> 📄 Certifications</h2>
+
+  - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/XJJLE2LD3KDY)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Anujin01 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Anujin01 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[instagram]: https://www.instagram.com/anujin0121/
+[linkedin]: https://www.linkedin.com/in/anu-anu-munkhsukh-1b7451349/
 <!--
-**Anujin01/Anujin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
