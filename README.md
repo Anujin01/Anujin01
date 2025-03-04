@@ -2,8 +2,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-
+- <b>done</b>
   - [Active Directory Home Lab](https://github.com/anujin01/URL)
+- <b>Cloud Security</b>
   - ["SIEM Analytics: Failed Logins & GeoData in Sentinel"]
 
 <h2> 📄 Certifications</h2>
