@@ -4,8 +4,6 @@ Hi, my name is Anujin. I'm from Mongolia🇲🇳 and currently studying in the U
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>done</b>
-  - [Active Directory Home Lab](https://github.com/anujin01/URL)
 - <b>Cloud Security</b>
   - [SIEM Analytics: Failed Logins & GeoData in Sentinel](https://github.com/Anujin01/Sentinel_Lab.git)
 
